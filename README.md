@@ -1,5 +1,7 @@
 # Mixed_Effect_Neural_Network
 
+시선 추정 분야에서 혼합 효과 신경망을 Tensorflow로 구현하고, Negative Log Likelihood에 대한 이해 및 EM Algorithm을 이해하기 위한 연구로 Matlab으로 2019년도에 구현된 MeNets 모델을 Tensorflow로 implementation 수행.
+
 ### 참고 문헌
 
     - Mixed Effects Neural Networks(MeNets) with Applications to Gaze Estimation
